@@ -1,2 +1,2 @@
 # mini_project
-this is fro 3 credits
+this is for 3 credits
