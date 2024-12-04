@@ -1,2 +1,6 @@
 requests==2.32.3
 python-dotenv==1.0.1
+
+setuptools == 75.5.0
+google-cloud-vision == 3.8.0
+python-telegram-bot == 21.8
